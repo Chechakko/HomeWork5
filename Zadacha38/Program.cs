@@ -23,7 +23,6 @@ for (int i = 0; i < numbers.Length; i++)
 Console.WriteLine($"Разница между максимальным и минимальным числом = {maxFillarray - minFillarray}");
 
 
-// Методы
 void FillArrayRandomNumbers(int [] array) 
 {
     for (int i = 0; i < array.Length; i++)
